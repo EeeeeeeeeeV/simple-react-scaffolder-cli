@@ -1,5 +1,5 @@
 {
-  "name": "@ev/simple-react-scaffolder-cli",
+  "name": "@ev_np/simple-react-scaffolder-cli",
   "version": "1.0.0",
   "description": "A cli to create simple react scaffolder.",
   "main": "index.js",
@@ -24,6 +24,10 @@
     "ora": "^7.0.1"
   },
   "devDependencies": {},
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EeeeeeeeeeV/simple-react-scaffolder-cli.git"
