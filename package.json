@@ -1,18 +1,18 @@
 {
-  "name": "cli",
+  "name": "@ev/simple-react-scaffolder-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A cli to create simple react scaffolder.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "EeeeeeeeeeV",
   "license": "ISC",
   "type": "module",
   "bin": {
-    "simple-react-scaffolder": "./bin/index.js",
-    "srs": "./bin/index.js"
+    "simple-react-scaffolder": "bin/index.js",
+    "srs": "bin/index.js"
   },
   "dependencies": {
     "chalk": "^5.3.0",
@@ -22,5 +22,14 @@
     "fs-extra": "^11.1.1",
     "inquirer": "^9.2.12",
     "ora": "^7.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EeeeeeeeeeV/simple-react-scaffolder-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EeeeeeeeeeV/simple-react-scaffolder-cli/issues"
+  },
+  "homepage": "https://github.com/EeeeeeeeeeV/simple-react-scaffolder-cli#readme"
 }

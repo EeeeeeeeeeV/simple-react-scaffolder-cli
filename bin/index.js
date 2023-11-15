@@ -75,7 +75,7 @@ const doCreate = async (action, name) => {
 
 program.name('simple-react-scaffolder')
     .description('A simple React scaffloder easily to use, supports JavaScript and TypeScript.')
-    .version('0.0.1');
+    .version('1.0.0');
 
 // 创建命令
 program.command('create <name>')
