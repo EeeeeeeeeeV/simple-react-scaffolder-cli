@@ -9,7 +9,7 @@ or
 or  
 `srs create {project name}`  
 or  
-`src c {project name}`
+`srs c {project name}`
 ### choose language
 Supports JS and TS rightnow.
 ![choose_language](/screenshots/choose_language.png)
