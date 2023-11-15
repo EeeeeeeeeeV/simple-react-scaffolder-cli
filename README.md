@@ -1,7 +1,7 @@
 # cli to create simple-react-scaffolder
 ## Usage
 ### install with npm
-`npm install @ev/simple-react-scaffolder-cli -g`
+`npm install @ev_np/simple-react-scaffolder-cli -g`
 ### create a project
 `simple-react-scaffolder create {project name}`  
 or  
