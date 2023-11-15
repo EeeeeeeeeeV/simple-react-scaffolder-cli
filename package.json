@@ -1,0 +1,26 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bin": {
+    "simple-react-scaffolder": "./bin/index.js",
+    "srs": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "degit": "^2.8.4",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.2.12",
+    "ora": "^7.0.1"
+  }
+}
